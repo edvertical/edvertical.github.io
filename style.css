@@ -1,0 +1,110 @@
+section {
+  min-height: 100vh;
+}
+
+.navbar {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+  letter-spacing: 3px;
+  background-color: #ce6817;
+}
+
+a.nav-link:hover {
+  color: #1d1c1b !important;
+}
+
+section.home {
+  background-color: #ce6817;
+  font-family: "Lora", serif;
+}
+
+.home h3 {
+  color: rgb(0, 0, 0);
+}
+
+.teks {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: 11px;
+  font-size: 10px;
+}
+
+section.text {
+  background-color: #0d4474;
+  font-family: "Montserrat", sans-serif;
+}
+
+section.brand h4 {
+  color: #0d4474;
+}
+
+.footer {
+  font-family: "Montserrat", sans-serif;
+  background-color: #ce6817;
+  min-height: 50vh;
+  padding: 80px;
+}
+
+.btn {
+  /*margin-right: 5px !important;*/
+  /*border-radius: 5px !important;*/
+  width: 103px !important;
+  /*color: #0d4474 !important;*/
+  font-size: 12px !important;
+  /*font-weight: 500 !important;*/
+}
+
+span {
+  transition: all 0.3s ease !important;
+  /* opacity: 0 !important;
+    transform: translateY(50px) !important;
+    display: inline-block !important; */
+  }
+
+  span.fade {
+    color: white !important;
+    opacity: 1 !important;
+    /* transform: translateY(0px) !important; */
+  }
+
+  .wrapper{
+    margin-top: 90px;
+  }
+
+  .collab{
+    margin-top: 70px;
+  }
+
+ /* @media screen and (max-width: 450px) {
+    .btn {
+      width: 80px !important;
+      color: #0d4474 !important;
+      font-size: 10px !important;
+      font-weight: 500 !important;
+    }
+
+    @media screen and (max-width: 360px) {
+      .btn {
+        width: 50px !important;
+        color: #0d4474 !important;
+        font-size: 5px !important;
+        font-weight: 500 !important;
+      }
+
+      @media screen and (min-width: 360px) {
+        .btn {
+          width: 50px !important;
+          color: #0d4474 !important;
+          font-size: 3px !important;
+          font-weight: 500 !important;
+        }
+
+        @media screen and (max-width: 360px) {
+          footer h4.akhir {
+            font-size: 15px !important;
+          }
+        }
+
+
+*/
