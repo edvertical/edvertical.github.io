@@ -47,7 +47,7 @@ section.brand h4 {
 }
 
 .btn {
-  margin-right: 5px !important;
+  margin: 5px !important;
   /*border-radius: 5px !important;*/
   width: 103px !important;
   /*color: #0d4474 !important;*/
@@ -75,36 +75,3 @@ span {
   .collab{
     margin-top: 70px;
   }
-
- /* @media screen and (max-width: 450px) {
-    .btn {
-      width: 80px !important;
-      color: #0d4474 !important;
-      font-size: 10px !important;
-      font-weight: 500 !important;
-    }
-
-    @media screen and (max-width: 360px) {
-      .btn {
-        width: 50px !important;
-        color: #0d4474 !important;
-        font-size: 5px !important;
-        font-weight: 500 !important;
-      }
-
-      @media screen and (min-width: 360px) {
-        .btn {
-          width: 50px !important;
-          color: #0d4474 !important;
-          font-size: 3px !important;
-          font-weight: 500 !important;
-        }
-
-        @media screen and (max-width: 360px) {
-          footer h4.akhir {
-            font-size: 15px !important;
-          }
-        }
-
-
-*/
